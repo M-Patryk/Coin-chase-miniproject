@@ -4,3 +4,8 @@ img {
 	top: 100px;
 	left: 100px;
 }
+h1{
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
